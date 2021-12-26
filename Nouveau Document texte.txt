@@ -1,5 +1,0 @@
-
-1 terminer les cas
-2 passer les blocage
-3 ensuit cree le test plan 
-4 
